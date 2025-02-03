@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on a Data Science Fellowshing with The Knowledge House. 
+🔭 I’m currently working on a Data Science Fellowship with The Knowledge House. 
 
-🌱 I’m currently learning Python and, basically, everything there is to know about coding. 
+🌱 I am learning Python and, basically, everything there is to know about coding. 
 
 You can reach me at jacque.latif@gmail.com. 
 <!--
