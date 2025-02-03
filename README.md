@@ -1,5 +1,8 @@
 ## Hi there 👋
-🔭 I’m currently working on a Data Science Fellowship with The Knowledge House. 
+
+I am trying something new, pivoting from real estate and education, to Data Science.  
+
+🔭 I’m currently working on a Data Science Fellowship with The Knowledge House. Eager to merge my background in communications, real estate & education with data science, & contribute to impactful change in our community.
 
 🌱 I am learning Python and, basically, everything there is to know about coding. 
 
